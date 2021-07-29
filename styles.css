@@ -1,0 +1,43 @@
+.color{
+    background-color:  #264653;
+}
+.center{
+    text-align: center;
+}
+.btn{
+    background-color: #E76F51;
+    text-align: center;
+    color: white;}
+    .purchases-btn{
+        background-color: #E76F51;
+    
+        width: 168px;
+        height: 44px;
+        
+       
+    }
+    .text-color{
+      color: #E76F51;
+      
+    }
+    .avatar{
+        border-radius: 50%;
+        width: 150px;
+    height: 150px;
+    }
+    .name-color{
+        color: #23A6F0;
+    }
+    
+
+    .star{
+        width: 25px;
+        height: 25px;
+        color:#E77C40;
+    justify-content: center;}
+        
+        .star-last{
+            width: 22px;
+            height: 22px;
+        }
+       
